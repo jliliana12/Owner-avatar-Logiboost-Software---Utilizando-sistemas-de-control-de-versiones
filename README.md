@@ -1,0 +1,2 @@
+# Owner-avatar-Logiboost-Software---Utilizando-sistemas-de-control-de-versiones
+Logiboost es una aplicación web para gestionar pedidos y productos. Permite ingresar detalles como nombre, producto y cantidad a través de un formulario interactivo, y gestionar productos con una tabla dinámica. Su diseño responsivo asegura una experiencia fluida en cualquier dispositivo, utilizando HTML, CSS, JavaScript y Bootstrap.
